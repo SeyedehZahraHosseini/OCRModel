@@ -1,5 +1,4 @@
 # OCRModel
-OCR معمولا از در مرحله تشکیل شده:
 
 **Text Detection:** 
 
